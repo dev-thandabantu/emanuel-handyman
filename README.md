@@ -1,14 +1,16 @@
-# Wridex Business Solutions
+# Building & Handyman Website
 
-Static landing page for `wridex.co.za`, focused on micro-business recruitment services.
+A static one-page website for an independent builder or handyman offering local residential services.
 
-## Files
+## Contact details
 
-- `index.html` - single-page website content.
-- `styles.css` - responsive styling.
-- `script.js` - small footer year and copy-email behavior.
-- `assets/` - favicon and hero image.
+- Emanuel Magodo
+- 067 157 1504
+- magodho.e@gmail.com
+- Phoenix, Milnerton
+
+These details and the listed services were taken from Emanuel's existing business card.
 
 ## Deployment
 
-This site is ready for GitHub Pages. Use the repository Pages settings to deploy from the `main` branch root, then point the domain DNS to GitHub Pages.
+The site is ready for GitHub Pages and currently uses the custom domain in `CNAME`.

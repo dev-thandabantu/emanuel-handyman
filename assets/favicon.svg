@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Wridex">
-  <rect width="64" height="64" fill="#082d30"/>
-  <path d="M13 16h8l5 26 7-26h7l7 26 5-26h8L51 50h-8l-7-24-7 24h-8L13 16Z" fill="#c8952c"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Building and handyman services">
+  <rect width="64" height="64" fill="#202522"/>
+  <path d="M13 45h38v7H13zM17 39 32 12l15 27h-8L32 26l-7 13z" fill="#e07831"/>
 </svg>
