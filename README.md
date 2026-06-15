@@ -13,4 +13,6 @@ These details and the listed services were taken from Emanuel's existing busines
 
 ## Deployment
 
-The site is ready for GitHub Pages and currently uses the custom domain in `CNAME`.
+The site is deployed free through GitHub Pages at:
+
+https://dev-thandabantu.github.io/emanuel-handyman/
